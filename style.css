@@ -1,3 +1,11 @@
-* {
-  color: blueviolet;
+h1 {
+  color: red;
+}
+
+a{
+  color: yellow;
+}
+
+*{
+  background: black;
 }
